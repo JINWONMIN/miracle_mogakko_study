@@ -33,9 +33,9 @@
 
 ---
 
-참여자 명단
+☀ 참여자 명단
 
 |**Name**|**Github address**|**Blog or Notion**|
 |:---:|:---:|:---:|
-|민진원|github.com/jinwonmin||
+|민진원|<github.com/jinwonmin>||
 
